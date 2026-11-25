@@ -55,6 +55,7 @@ The following Mermaid flowchart represents the branching structure of the story,
 ***A PNG OF THIS FLOWCHART WILL BE ADDED TO THE REPOSITORY***
 
 flowchart TD
+
     A(["START: The Robbery"]) --> B["The Robbery Goes Wrong"]
     B --> C["The Entire Gang Is Killed"]
     C --> D{"What Does Scrim Do?"}
