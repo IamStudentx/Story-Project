@@ -4,8 +4,8 @@
 
 | Team Member | Responsibilities |
 |---|---|
-| [Your Name] | Story development, project documentation, README, and gameplay planning |
-| [Teammate Name] | Story flowchart and branching structure |
+| [Nicholas] | Story development, project documentation, README, and gameplay planning |
+| [Saurya] | Story flowchart and branching structure |
 
 ## Application Overview
 
